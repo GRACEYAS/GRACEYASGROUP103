@@ -7,10 +7,15 @@ This project covers pensional detail,calculate provision and view for further pr
 STEPS TO CREATE GITHUB REPOSITORY;
 
 1.Loginto GITHUB.
+
 2.Click on + icon on the right side of the page and select new repository
+
 3.Create a repository page opens
+
 4.click the public checkbox under the repository to make the GITHUB profile REDME Page visible to everone who visit the page
+
 5.check add a REDME  file checkbox
+
 6.click on the craeet repository button
 
 TOTAL MICROSERVICES;
