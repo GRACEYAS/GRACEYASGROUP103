@@ -1,5 +1,5 @@
 # GRACEYASGROUP103
-TEAM MEMBERS-GRACEYAS,DIVYAJOTHI,BALU,DIPSHEKER.
+TEAM MEMBERS-GRACEYAS,DIVYAJOTHI,BALU,DIPSHEKER,KRISHNA.
 
 The project overview-the state government aims to automate the portion of pension detail provisional.
 This project covers pensional detail,calculate provision and view for further processing.
