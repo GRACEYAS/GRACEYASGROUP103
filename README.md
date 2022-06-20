@@ -6,10 +6,15 @@ This project covers pensional detail,calculate provision and view for further pr
 
 TOTAL MICROSERVICES;
 
+
 1.Authorization microservice
+
 2.pensioner detail microservice
+
 3.process pension microservice
+
 4.Pension management portal
+
 
 FUNCTIONALITIES;
 1.AUTHORIZATION MICROSERVICE
