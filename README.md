@@ -29,7 +29,6 @@ PENSION AMOUNT DETAIL CALCULATE AS FOLLOWS;
 
 #Self pension-80% of last salary earned+last allowance
 
-
 #family pension-50% of last salary earned=allowance
 
 public banks-INR 550
